@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|d:\\\u0448\u0430\u0440\u0430\u0433\u0430\\3 \u043A\u0443\u0440\u0441\\hachathon\\desktopclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|solutionrelative:desktopclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\desktopclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|solutionrelative:desktopclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -17,15 +26,31 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\DesktopClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DesktopClient\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\DesktopClient\\MainWindow.xaml",
+              "RelativeToolTip": "DesktopClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T18:26:59.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\DesktopClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DesktopClient\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\DesktopClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DesktopClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T18:26:59.541Z"
             }
           ]
         }
