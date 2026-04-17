@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|d:\\\u0448\u0430\u0440\u0430\u0433\u0430\\3 \u043A\u0443\u0440\u0441\\hachathon\\desktopclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|solutionrelative:desktopclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|d:\\\u0448\u0430\u0440\u0430\u0433\u0430\\3 \u043A\u0443\u0440\u0441\\hachathon\\desktopclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|solutionrelative:desktopclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\desktopclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|solutionrelative:desktopclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\desktopclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8BF895ED-0F95-4BAA-973A-BD78661BABE4}|DesktopClient\\DesktopClient.csproj|solutionrelative:desktopclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +30,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\DesktopClient\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DesktopClient\\MainWindow.xaml",
               "ToolTip": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\DesktopClient\\MainWindow.xaml",
               "RelativeToolTip": "DesktopClient\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-13T18:26:59.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T18:26:59.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\DesktopClient\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DesktopClient\\MainWindow.xaml.cs",
               "ToolTip": "D:\\\u0428\u0410\u0420\u0410\u0413\u0410\\3 \u043A\u0443\u0440\u0441\\Hachathon\\DesktopClient\\MainWindow.xaml.cs",
               "RelativeToolTip": "DesktopClient\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T18:26:59.541Z"
+              "WhenOpened": "2026-04-13T18:26:59.541Z",
+              "EditorCaption": ""
             }
           ]
         }

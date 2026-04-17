@@ -1,2 +1,3 @@
-2026/04/13-21:36:01.351 fcc Creating DB D:\ШАРАГА\3 курс\Hachathon\DesktopClient\bin\Debug\DesktopClient.exe.WebView2\EBWebView\Default\shared_proto_db\metadata since it was missing.
-2026/04/13-21:36:01.366 fcc Reusing MANIFEST D:\ШАРАГА\3 курс\Hachathon\DesktopClient\bin\Debug\DesktopClient.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/04/14-13:15:43.104 5cc8 Reusing MANIFEST D:\ШАРАГА\3 курс\Hachathon\DesktopClient\bin\Debug\DesktopClient.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/04/14-13:15:43.105 5cc8 Recovering log #3
+2026/04/14-13:15:43.105 5cc8 Reusing old log D:\ШАРАГА\3 курс\Hachathon\DesktopClient\bin\Debug\DesktopClient.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/000003.log 
